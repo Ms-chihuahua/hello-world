@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on MS-chihuahua Hugo Site</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on MS-chihuahua Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jul 2025 17:55:38 +0900</lastBuildDate>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>/blog/my-first-post/</link>
+      <pubDate>Tue, 29 Jul 2025 17:55:38 +0900</pubDate>
+      <guid>/blog/my-first-post/</guid>
+      <description>&lt;p&gt;Hello everyone,&#xA;I&amp;rsquo;m Ms. Chihuahua, also known as ayc3361, and also known as Chumu.&lt;/p&gt;&#xA;&lt;p&gt;I’ve decided to take on the challenge of programming because I want to support QL1.&#xA;To be honest, this is a completely new field for me, so I’ve been running into all sorts of mistakes along the way.&lt;/p&gt;&#xA;&lt;p&gt;I’m documenting my journey in the hope that my experiences—even the struggles—might be helpful to others.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
