@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MS-chihuahua Hugo Site</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on MS-chihuahua Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jul 2025 17:55:38 +0900</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Aug 2025 14:34:21 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20250809</title>
+      <link>//localhost:1313/blog/20250809/</link>
+      <pubDate>Sat, 09 Aug 2025 14:34:21 +0900</pubDate>
+      <guid>//localhost:1313/blog/20250809/</guid>
+      <description>&lt;p&gt;About a month ago, I began learning programming.&lt;br&gt;&#xA;At first, even just downloading Babel Fish and getting the &amp;ldquo;.qom&amp;rdquo; address was confusing, since it was my very first time using the terminal.&lt;br&gt;&#xA;When I downloaded it for the first time, I didn’t even specify a save location in the terminal, so I ended up losing track of where it was saved.&lt;br&gt;&#xA;Thanks to help from a member of QL1 JAPAN1, I learned the &lt;code&gt;cd&lt;/code&gt; command for the first time.&lt;br&gt;&#xA;I didn’t even know that I needed to specify &lt;em&gt;where&lt;/em&gt; I was working.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My first post</title>
-      <link>/blog/my-first-post/</link>
+      <link>//localhost:1313/blog/my-first-post/</link>
       <pubDate>Tue, 29 Jul 2025 17:55:38 +0900</pubDate>
-      <guid>/blog/my-first-post/</guid>
+      <guid>//localhost:1313/blog/my-first-post/</guid>
       <description>&lt;p&gt;Hello everyone,&#xA;I&amp;rsquo;m Ms. Chihuahua, also known as ayc3361, and also known as Chumu.&lt;/p&gt;&#xA;&lt;p&gt;I’ve decided to take on the challenge of programming because I want to support QL1.&#xA;To be honest, this is a completely new field for me, so I’ve been running into all sorts of mistakes along the way.&lt;/p&gt;&#xA;&lt;p&gt;I’m documenting my journey in the hope that my experiences—even the struggles—might be helpful to others.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ms chihuahua&#39;s struggles</title>
-      <link>/home/</link>
+      <link>//localhost:1313/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/home/</guid>
-      <description></description>
+      <guid>//localhost:1313/home/</guid>
+      <description>&lt;p&gt;Beginner&amp;rsquo;s Programming Challenge&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
